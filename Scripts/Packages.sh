@@ -58,7 +58,7 @@ UPDATE_PACKAGE() {
 #UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "master"
 #UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
 
-UPDATE_PACKAGE "homeproxy" "ones20250/homeproxy" "master"
+#UPDATE_PACKAGE "homeproxy" "ones20250/homeproxy" "master"
 #UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
 #UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 if [[ "${WRT_PROFILE^^}" == "PLUS" ]]; then
